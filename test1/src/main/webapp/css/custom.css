@@ -1,0 +1,21 @@
+/**
+ *   Title: custom
+ *   Description: Customization for CSS
+ *   Author: De Vera, Jose II Y.
+ *   Date: 12/14/2022
+ */
+
+@charset "ISO-8859-1";
+
+
+#child { 
+	width: 80vh;
+  	height: 80vh;
+  	background-color: red
+}
+
+#parent {
+	background-color: blue;
+	width: 400vh;
+  	height: 400vh;
+}
